@@ -1,0 +1,2 @@
+# shadowsocks-windows
+shadowsocks-windows
